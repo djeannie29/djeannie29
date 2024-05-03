@@ -69,7 +69,7 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://earthengine.google.com/" target="_blank"> <img src="https://github.com/djeannie29/djeannie29/blob/main/google_earth_engine.jpeg" alt="Google Earth Engine"/> </a>
-<a href="https://earthengine.google.com/" target="_blank"> <img src="https://github.com/djeannie29/djeannie29/blob/main/qgis.png" alt="QGis"/> </a>
+<a href="https://qgis.org/en/site/about/index.html/" target="_blank"> <img src="https://github.com/djeannie29/djeannie29/blob/main/qgis.png" alt="QGis"/> </a>
 </p>
 
 
