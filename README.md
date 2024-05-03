@@ -2,7 +2,7 @@
 
 # <h1 align="center">Hi 👋, I'm Denise Marti</h1>
 # <h3 align="center">A Lady Data Science Student with a passion for cats and music.</h3>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/djeannie29/djeannie29/blob/main/OIG1.Lsv5PY5iDquy3w1.jpeg)" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🌱 I’m currently learning 
      - Studying Data Science at UFMS
