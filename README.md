@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # <h1 align="center">Hi 👋, I'm Denise Marti</h1>
-# <h3 align="center">A Data Science student in love with cats and music.</h3>
+# <h3 align="center">A Lady Data Science Student with a passion for cats and music.</h3>
 
 - 🌱 I’m currently learning 
      - Studying Data Science at UFMS
