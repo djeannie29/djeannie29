@@ -20,7 +20,7 @@
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=tru
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
 
 <p></p>
 <h3 align="left">Languages and Tools:</h3>
