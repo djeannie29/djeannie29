@@ -2,7 +2,7 @@
 
 # <h1 align="center">Hi 👋, I'm Denise Marti</h1>
 # <h3 align="center">A Lady Data Science Student with a passion for cats and music.</h3>
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🌱 I’m currently learning 
      - Studying Data Science at UFMS
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **denisemarti@cienciasdedadosms.com.br**
 - My Website: https://cienciasdedadosms.com.br/
-<
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@denisemarti29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@denisemarti29" height="30" width="40" /></a>
