@@ -73,7 +73,3 @@
 </p>
 
 
-
-
-https://github.com/djeannie29/djeannie29/blob/main/google_earth_engine.jpeg
-
