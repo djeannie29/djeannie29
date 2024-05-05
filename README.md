@@ -28,7 +28,7 @@
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djeannie29&layout=compact&bg_color=FFFFF&border_color=30A3DC&title_color=E94D5F&text_color=black" alt="Top Langs">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=djeannie29&show_icons=true" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=djeannie29&show_icons=true&border_color=30A3DC" alt="GitHub Stats">
     </td>
   </tr>
 </table>
