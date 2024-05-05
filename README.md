@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-# <h1 align="center">Oi 👋, Me Chamo Denise Marti</h1>
+# <h1 align="center">Oi 👋, meu nome é Denise Marti</h1>
 # <h3 align="center">Uma Senhora apaixonada pela família, gatos, música e tecnologia.</h3>
 <img src="https://github.com/djeannie29/djeannie29/blob/main/OIG2.9bVwKIeojTixE.jpeg" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
 
