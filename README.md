@@ -10,8 +10,7 @@
      - Data Science in Agribusiness
 
 - 📫 How to reach me **denisemarti@cienciasdedadosms.com.br**
-- My Website: https://cienciasdedadosms.com.br/
-
+- My Website: [https://cienciasdedadosms.com.br/](https://cienciasdedadosms.com.br)  - My website is under development.
 <h3 align="left">Conecte-se comigo:</h3>
 <a href="https://www.linkedin.com/in/denise-marti">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
