@@ -25,11 +25,7 @@
 <table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=djeannie29&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+      ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djeannie29&bg_color=white&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
     </td>
     <td>
       <br />
