@@ -1,13 +1,13 @@
 ### Olá pessoal! 👋
 
-## ⭐ Es👋, Me Chamo Denise Marti
+##  Oi 👋, Me Chamo Denise Marti
 ### Uma Senhora apaixonada pela família, gatos, música e tecnologia.
 <img src="https://github.com/djeannie29/djeannie29/blob/main/OIG2.9bVwKIeojTixE.jpeg" alt="Mundo Informatizado" width="300" height="300" align="right">
 
 - 🌱 Atualmente estou realizando os seguintes cursos:
-     - Faculdade de Ciências de Dados na Universidade Federal do Mato Grosso do Sul -  UFMS
-     - BootCamp Santander Dio
-     - Data Science no Agronegócio na AgroAdvance
+     - ⭐Faculdade de Ciências de Dados na Universidade Federal do Mato Grosso do Sul -  UFMS
+     - ⭐BootCamp Santander Dio
+     - ⭐Data Science no Agronegócio na AgroAdvance
 
 - 📫 Como me encontrar: **denisemarti@cienciasdedadosms.com.br**
 - Meu site: [https://cienciasdedadosms.com.br/](https://cienciasdedadosms.com.br)  - Site em desenvolvimento.
