@@ -26,6 +26,26 @@
   <tr>
     <td>
       <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=djeannie29&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/? username=djeannie29&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=white)"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djeannie29&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=white)
 --- 
       />
