@@ -22,40 +22,7 @@
 
 ### ⚙️ Análise do GitHub
 
-<table>
-  <tr>
-    <td>
-      ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djeannie29&bg_color=white&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/? username=djeannie29&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=white)"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djeannie29&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=white)
---- 
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=djeannie29&theme=white&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djeannie29&bg_color=FFFFFF&border_color=30A3DC&title_color=E94D5F&text_color=black)
 
 
 
