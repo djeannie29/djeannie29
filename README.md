@@ -2,8 +2,7 @@
 
 ## ⭐ Es👋, Me Chamo Denise Marti
 ### Uma Senhora apaixonada pela família, gatos, música e tecnologia.
-![Ilustração de um computador](https://github.com/djeannie29/djeannie29/blob/main/OIG2.9bVwKIeojTixE.jpeg)
-
+<img src="https://github.com/djeannie29/djeannie29/blob/main/OIG2.9bVwKIeojTixE.jpeg" alt="Mundo Informatizado" width="300" height="300">
 
 - 🌱 Atualmente estou realizando os seguintes cursos:
      - Faculdade de Ciências de Dados na Universidade Federal do Mato Grosso do Sul -  UFMS
