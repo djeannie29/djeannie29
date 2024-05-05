@@ -1,29 +1,26 @@
+### Olá pessoal! 👋
 
-### Hi there 👋
-
-# <h1 align="center">Oi 👋, meu nome é Denise Marti</h1>
+# <h1 align="center">Oi 👋, Me Chamo Denise Marti</h1>
 # <h3 align="center">Uma Senhora apaixonada pela família, gatos, música e tecnologia.</h3>
-<img src="https://github.com/djeannie29/djeannie29/blob/main/OIG2.9bVwKIeojTixE.jpeg" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
+<img src="https://github.com/djeannie29/djeannie29/blob/main/OIG2.9bVwKIeojTixE.jpeg" alt="ilustração de um computador" width="300" align="right">
 
 - 🌱 Atualmente estou realizando os seguintes cursos:
      - Faculdade de Ciências de Dados na Universidade Federal do Mato Grosso do Sul -  UFMS
      - BootCamp Santander Dio
      - Data Science no Agronegócio na AgroAdvance
 
-- 📫 How to reach me **denisemarti@cienciasdedadosms.com.br**
-- My Website: [https://cienciasdedadosms.com.br/](https://cienciasdedadosms.com.br)  - Site em desenvolvimento.
+- 📫 Como me encontrar: **denisemarti@cienciasdedadosms.com.br**
+- Meu site: [https://cienciasdedadosms.com.br/](https://cienciasdedadosms.com.br)  - Site em desenvolvimento.
 <h3 align="left">Conecte-se comigo:</h3>
 <a href="https://www.linkedin.com/in/denise-marti">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+## ⭐ Estatísticas do GitHub
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=djeannie29&show_icons=true)
 
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djeannie29&show_icons=true)
-
-### ⚙️ GitHub Analytics
+### ⚙️ Análise do GitHub
 
 <table>
   <tr>
@@ -73,12 +70,11 @@
 ![DB2](https://img.shields.io/badge/DB2-04B404?style=for-the-badge&logo=DB2&logoColor=07405E)
 
 
-<h3 align="left">Ferramentas/h3>
+<h3 align="left">Ferramentas</h3>
 <p align="left">
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![QGis](https://img.shields.io/badge/QGis-04B404?style=for-the-badge&logo=QGis&logoColor=white) ![Google Earth Engine](https://img.shields.io/badge/Google-Earth-04B404?style=for-the-badge&logo=Google-Earth&logoColor=white)
 
 <h3 align="left">Cloud Storage</h3>
 <p align="left">
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#) [![Microsoft OneDrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff)](#)
-
 </p>
