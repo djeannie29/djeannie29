@@ -22,9 +22,17 @@
 
 ### ⚙️ Análise do GitHub
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djeannie29&bg_color=FFFFFF&border_color=30A3DC&title_color=E94D5F&text_color=black)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djeannie29&bg_color=FFFFF&border_color=30A3DC&title_color=E94D5F&text_color=black" alt="Top Langs">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djeannie29&layout=compact&bg_color=FFFFF&border_color=30A3DC&title_color=E94D5F&text_color=black" alt="Top Langs">
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djeannie29&layout=compact&bg_color=FFFFFF&border_color=30A3DC&title_color=E94D5F&text_color=black)
 
 ### Linguagens de Programação
 
