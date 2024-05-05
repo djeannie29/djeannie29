@@ -24,7 +24,7 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djeannie29&bg_color=FFFFFF&border_color=30A3DC&title_color=E94D5F&text_color=black)
 
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djeannie29&layout=compact&bg_color=FFFFFF&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Linguagens de Programação
 
