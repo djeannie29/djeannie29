@@ -12,10 +12,11 @@
 - 📫 How to reach me **denisemarti@cienciasdedadosms.com.br**
 - My Website: https://cienciasdedadosms.com.br/
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denise-marti)
+<h3 align="left">Conecte-se comigo:</h3>
+<a href="https://www.linkedin.com/in/denise-marti">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 
 
 ## ⭐ GitHub Stats
