@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aldenis-alves-448a6b255/](https://www.linkedin.com/in/denise-marti/))
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/aldenis.alves.90](https://web.facebook.com/denisejmarti))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denise-marti/))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/denisejmarti)
 
 ## ⭐ GitHub Stats
 
