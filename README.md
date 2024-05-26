@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou realizando os seguintes cursos:
      - ⭐Faculdade de Ciências de Dados na Universidade Federal do Mato Grosso do Sul -  UFMS
-     - ⭐BootCamp Santander Dio
+     - ⭐Computer Vision - Cognitive Class
      - ⭐Data Science no Agronegócio na AgroAdvance
 
 - 📫 Como me encontrar: **denisemarti@cienciasdedadosms.com.br**
