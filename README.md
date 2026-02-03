@@ -1,58 +1,58 @@
-### Olá, pessoal! 👋☕🐱
+### Oi! Eu sou a Denise Marti ☕🐱  
+**Tecnóloga em Ciência de Dados (UFMS)** • conteúdo educativo em **Data Science & IA** no *Café com Dados & Gatos* — e também projetos, cursos e estudos aqui no GitHub.
 
-## Oi, eu sou a Denise Marti
-### Apaixonada por família, gatos, música e tecnologia — e por ensinar Ciência de Dados de um jeito leve e direto.
-
-
-🔎 **O que eu faço por aqui**
-- Ciência de Dados aplicada (Python, ML, análise de dados e boas práticas de pipeline)
-- Conteúdo educativo em Data Science + IA (projetos, notebooks e explicações sem enrolação)
-- Construindo a marca **Café com Dados & Gatos** ☕🐱
+#### 🔎 O que você encontra neste GitHub
+- **📚 Cursos & estudos** (anotações, exercícios, projetos guiados)
+- **🧪 Notebooks & experimentos** (Pandas, ML, redes neurais, análises)
+- **🛠️ Scripts úteis** (limpeza de dados, automações, utilitários)
+- **☕ Café com Dados & Gatos** (materiais do canal, datasets e notebooks)
 
 🎓 **Formação**
 - ✅ Curso Superior de Tecnologia em **Ciência de Dados — UFMS** (concluído no final de 2025)
 - 🎯 Em preparação para iniciar **Especialização em Docência para o Ensino Superior**
 
-🌐 **Site**
-- https://cafecomdadosegatos.com.br/ *(em desenvolvimento)*
+---
 
-📫 **Contato**
-- **denise@cafecomdadosegatos.com.br**
-
-
-<h3 align="left">Conecte-se comigo</h3>
+## 🔗 Links
 <a href="https://www.linkedin.com/in/denise-marti">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://cafecomdadosegatos.com.br/">
+  <img src="https://img.shields.io/badge/Site-cafecomdadosegatos.com.br-111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site"/>
+</a>
+<a href="mailto:denise@cafecomdadosegatos.com.br">
+  <img src="https://img.shields.io/badge/Email-denise%40cafecomdadosegatos.com.br-444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.youtube.com/@CafecomDadoseGatos">
+  <img src="https://img.shields.io/badge/YouTube-Café%20com%20Dados%20%26%20Gatos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
 ---
 
-
-
-## 🧰 Stack (resumo)
-**Linguagens**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0B2F3A?style=for-the-badge&logo=SQL&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Bibliotecas**
-![Pandas](https://img.shields.io/badge/Pandas-DF7401?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-5882FA?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-5882FA?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0077B5?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FE642E?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Ferramentas**
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-**Banco de Dados**
-![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+## 📺 YouTube
+Shorts objetivos de Pandas, bugs de dados, redes neurais e IA em produção.  
+➡️ https://www.youtube.com/@CafecomDadoseGatos
 
 ---
 
-✨ Se você curte conteúdo de DS/IA claro e aplicável: pega um café e vem comigo ☕🐱
+## 🧰 Stack (enxuto)
+**Linguagens**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-0B2F3A?style=for-the-badge&logo=sqlite&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+**Bibliotecas**  
+![Pandas](https://img.shields.io/badge/Pandas-DF7401?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-5882FA?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-0077B5?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+## 📌 Destaques (por tipo)
+- **Cursos & estudos:** repositórios com exercícios, resumos e projetos guiados
+- **Notebooks:** análises e experimentos (do básico ao avançado)
+- **Scripts:** utilitários e automações
+- **Café com Dados & Gatos:** materiais do canal e do site
+
+✨ Curtiu? Pega um café e vem aprender comigo ☕🐱
