@@ -10,7 +10,7 @@
 - Construindo a marca **Café com Dados & Gatos** ☕🐱
 
 🎓 **Formação**
-- ✅ Bacharelado em **Ciência de Dados — UFMS** (concluído no final de 2025)
+- ✅ Curso Superior de Tecnologia em **Ciência de Dados — UFMS** (concluído no final de 2025)
 - 🎯 Em preparação para iniciar **Especialização em Docência para o Ensino Superior**
 
 🌐 **Site**
