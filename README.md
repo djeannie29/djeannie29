@@ -1,15 +1,40 @@
 ### Oi! Eu sou a Denise Marti ☕🐱  
-**Tecnóloga em Ciência de Dados (UFMS)** • conteúdo educativo em **Data Science & IA** no *Café com Dados & Gatos* — e também projetos, cursos e estudos aqui no GitHub.
+Cientista de Dados • Criadora de conteúdo em IA e Data Science no canal Café com Dados & Gatos 🐱☕
 
-#### 🔎 O que você encontra neste GitHub
-- **📚 Cursos & estudos** (anotações, exercícios, projetos guiados)
-- **🧪 Notebooks & experimentos** (Pandas, ML, redes neurais, análises)
-- **🛠️ Scripts úteis** (limpeza de dados, automações, utilitários)
-- **☕ Café com Dados & Gatos** (materiais do canal, datasets e notebooks)
+Produzo conteúdos educativos voltados à prática, com foco em engenharia de agentes, uso de frameworks de IA como OpenClaw e aplicação real de modelos no dia a dia. Também desenvolvo projetos, experimentos e materiais de apoio aqui no GitHub.
 
-🎓 **Formação**
-- ✅ Curso Superior de Tecnologia em **Ciência de Dados — UFMS** (concluído no final de 2025)
-- 🎯 Em preparação para iniciar **Especialização em Docência para o Ensino Superior**
+🔎 O que você encontra neste GitHub
+
+📚 Cursos & estudos  
+Anotações, exercícios e projetos guiados voltados à formação contínua em Data Science e IA.
+
+🧪 Notebooks & experimentos  
+Explorações com Pandas, Machine Learning, redes neurais e análises de dados.
+
+🛠️ Scripts úteis  
+Ferramentas para limpeza de dados, automações e utilitários para o dia a dia.
+
+☕ Café com Dados & Gatos  
+Materiais do canal, datasets, notebooks e conteúdos complementares aos vídeos.
+
+🎓 Formação
+
+✅ Ciência de Dados — UFMS (concluído em 2025)
+
+🎯 Especialização em Docência no Ensino Superior (em andamento)  
+🎯 Especialização em Ciência de Dados e Inteligência Artificial (em andamento)
+
+🚀 Interesses atuais
+
+- OpenClaw na prática: criando agentes reais, com arquitetura e governança  
+- Frameworks de IA e sistemas multiagentes  
+- Modelos locais vs cloud (Ollama, OpenAI-compatible, etc.)  
+- Segurança, isolamento e execução em sandbox  
+- Aplicações práticas de IA no mundo real
+
+📺 Conteúdo
+
+Criadora do canal Café com Dados & Gatos, com foco em tornar IA e Ciência de Dados mais acessíveis, práticas e aplicáveis no dia a dia.
 
 ---
 
