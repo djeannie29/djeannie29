@@ -1,4 +1,4 @@
-### Oi! Eu sou a Denise Marti ☕🐱  
+### Oi! Eu sou a Denise.☕🐱  
 Cientista de Dados • Criadora de conteúdo em IA e Data Science no canal Café com Dados & Gatos 🐱☕
 
 Produzo conteúdos educativos voltados à prática, com foco em engenharia de agentes, uso de frameworks de IA como OpenClaw e aplicação real de modelos no dia a dia. Também desenvolvo projetos, experimentos e materiais de apoio aqui no GitHub.
